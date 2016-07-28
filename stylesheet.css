@@ -1,0 +1,116 @@
+
+#body
+    {background-color:#b2c2bf;
+    }
+h3
+    {font-family: ewert;
+     font-size: 18px; 
+     color:#9FA0C3; 
+     text-align: left;
+    }
+#header
+    {margin:auto; 
+     text-align: center; 
+     background-color: #eaece5;
+     width:100%;
+     font-family: Ewert;
+     font-size: 35px; 
+     /*color:#9FA0C3;*/ 
+     font-weight: bolder;
+    }
+    /*Navigation Bar starts here */
+#navigation
+    { width:100%;
+    }
+    p
+    { text-align: left; font-size:15px;}
+.nav
+    { font-family:sans-serif;
+      font-size: 15px;
+      display:inline-block;
+    /*color:#9FA0C3;*/     
+      text-decoration: none;
+      font-weight: bold;
+      margin:25px;
+    }
+/*active link*/
+.nav:hover
+    { background-color: white;
+      font-size: 20px;
+      text-decoration: none;
+      color:black;
+    
+    }
+.empty
+    {
+        display: inline-block;
+    }
+
+.nav:visited
+    {color:black;
+      font-weight: bold;
+    }
+/*Navigation Bar ends here */
+
+ul { text-align:left;  
+     text-decoration: none;
+    }
+ol { text-align:left;    
+    }
+ol:hover
+    { background-color: darkmagenta;}
+
+li { text-align:left;
+    font-size:29px;
+    color:#9FA0C3; 
+    text-decoration: none;
+   }
+/*visited link*/
+li:hover
+{ background-color: #e6c79c;}
+
+
+#leftcolumn
+        { border-width: 16px; 
+          background:#546a76;
+          border-style:ridge;
+          display: inline-block;
+          width:36%;
+          vertical-align: top;
+          padding-bottom: 30px;
+                 }
+
+#wrapper
+        { margin:auto; 
+          width:75%;
+        }
+
+#rightcolumn
+        { border-width: 16px; 
+          background:#546a76;
+          border-style:ridge;
+          display: inline-block;
+          width:57%;
+          margin-top: 2px;
+          vertical-align: top;
+          height:435px;
+          text-align: center;
+            
+      }
+a {
+    text-decoration: none;
+}
+a:visited { 
+    color:black; 
+}
+d
+#title
+    { 
+        background-color: grey;
+        width:200px;
+        
+    }
+    
+#map 
+    { margin:auto;
+    }
